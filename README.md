@@ -3,7 +3,7 @@
 
   Human Computer Interaction Hifi prototype
   
-  <img src="https://user-images.githubusercontent.com/5699978/192796687-590416f7-c860-4404-b159-654234cf256f.png" width="500">
+  <img src="https://user-images.githubusercontent.com/5699978/192796687-590416f7-c860-4404-b159-654234cf256f.png" width="400">
 
 # Features
   1. Powerpoint Slideshow Animation
